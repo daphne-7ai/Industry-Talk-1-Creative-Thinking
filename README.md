@@ -10,4 +10,4 @@ Log activity
 | 1  |12/11/2026      |Daphne Lai        | Completed cover page, speaker's experience, Reflection| https://cent-ti.com.my/zahari-othman/ | Summarized Dr. Zahari Othman's experience for the "Speaker's Experience" section of the report.                      |
 | 2  |16/11/2026    |Alya Zulfah        |Completed the section on HOTS and reflection      |https://journal.unj.ac.id/unj/index.php/jisae/article/view/4859                                  |                   |
 | 3  |17/11/2026      |Adam Harith        |Completed the meaning of Critical, Creative, Mathematical and Scientific Thinking. Completed reflection      |Used the handout given during the session.                                  |                      |
-| 4  |      |        |      |                                  |                      |
+| 4  |18/11/2026      |Kayelviezhi        |Completed the application of HOTS in computer science and data engineering. Completed reflection.       |Used the handout given and own notes.                                  |                      |
